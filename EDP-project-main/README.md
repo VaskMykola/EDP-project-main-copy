@@ -22,6 +22,7 @@ This University Project was developed as part of our coursework to demonstrate o
 - Client GUI for easy interaction
 - Server handling multiple client connections
 - TCP-based communication between client and server
+- TCP-based communication between client and server
 - Add, remove, and display class schedules
 - Automatic rescheduling of classes to early morning slots
 
